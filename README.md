@@ -26,6 +26,5 @@ A full-stack e-commerce platform built with the MERN stack, featuring secure use
 
 - 🌐 [Portfolio](https://talhajaved.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/talhajavedcom)
-- 📧 Email: [Your Email Address]
 
 Let's collaborate to bring your designs to life with high-quality, responsive web development!
